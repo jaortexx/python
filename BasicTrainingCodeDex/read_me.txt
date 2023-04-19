@@ -9,5 +9,3 @@ Profession = Mechanical Engineer
 e_mail = jonanderortega@gmail.com
 
 linked_in = https://www.linkedin.com/in/jaortegamtz/
-
-Source used to carry out this course = https://www.youtube.com/@mouredev
