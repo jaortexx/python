@@ -1,3 +1,5 @@
+This is a basic-mid course that I took at the following official institution: CETIC País Vasco
+
 name = Jon Ander Ortega
 
 birth_date = 03/07/1991
@@ -10,4 +12,3 @@ e_mail = jonanderortega@gmail.com
 
 linked_in = https://www.linkedin.com/in/jaortegamtz/
 
-Source used to carry out this course = https://www.youtube.com/@mouredev
